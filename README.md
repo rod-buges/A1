@@ -2,7 +2,7 @@
 
 ### Descrição da atividade:
 
-### Você foi contratado por uma companhia de distribuição de água para criar um modelo que auxilie na análise de qualidade de água. Os dados (disponível em: https://www.kaggle.com/mssmartypants/water-quality. Acesso em: 22 ago. 2022) estão em um arquivo CSV que descreve a quantidade mensurada de 20 compostos presentes em amostras de água, como alumínio, amônia, cobre e outros. O link do dataset fornece uma referência sobre a quantidade aceitável de cada composto e contém uma coluna adicional (is_safe) que descreve se a amostra é segura (valor 1) ou não é segura (valor 0). Assim sendo, siga o roteiro a seguir para realizar a tarefa:
+Você foi contratado por uma companhia de distribuição de água para criar um modelo que auxilie na análise de qualidade de água. Os dados (disponível em: https://www.kaggle.com/mssmartypants/water-quality. Acesso em: 22 ago. 2022) estão em um arquivo CSV que descreve a quantidade mensurada de 20 compostos presentes em amostras de água, como alumínio, amônia, cobre e outros. O link do dataset fornece uma referência sobre a quantidade aceitável de cada composto e contém uma coluna adicional (is_safe) que descreve se a amostra é segura (valor 1) ou não é segura (valor 0). Assim sendo, siga o roteiro a seguir para realizar a tarefa:
 
 Carregue o arquivo CSV como um dataframe Pandas;
 Faça uma análise prévia sobre o formato dos dados (os recursos head, tail e dtypes podem ser úteis);
